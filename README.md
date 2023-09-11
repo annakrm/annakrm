@@ -9,6 +9,10 @@
 - Components UI Library: React;
 - State Manager: Redux;
 - Bundler: WebPack (inside of CRA).
+
+**Me**
+Будучи профессиональным переводчиком и действующим преподавателем иностранных языков, я знакома с многими метафорами и фразеологизмами. Но только лишь приоткрыв бескрайний мир информационных технологий, я наверняка поняла, что языки программирования - вот, чего требовала душа многие годы :)
+Так и начался мой путь инженера во Frontend-разработке.
 <!--
 **annakrm/annakrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
