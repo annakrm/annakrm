@@ -5,7 +5,7 @@
 - Languages: JavaScript;
 - TypeChecker: TypeScript;
 - HTML5;
-- CSS (Flexbox, Grid, BEM, Animations, Mobile First, Adaptive Layout);
+- CSS (Flexbox, Grid, BEM, Animations, Adaptive Layout);
 - Components UI Library: React;
 - State Manager: Redux;
 - Bundler: WebPack (inside of CRA).
