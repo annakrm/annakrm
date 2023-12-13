@@ -2,7 +2,9 @@
 
 **🖇 Tech stack**
 
-- HTML5 & CSS3 (Flexbox, Grid, BEM, Animations, Adaptive Layout)
+- HTML5
+- CSS3
+  Flexbox, Grid, BEM, Animations, Adaptive Layout
 - Language: JavaScript
 - TypeChecker: TypeScript
 - Components UI Library: React
