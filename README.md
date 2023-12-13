@@ -2,13 +2,13 @@
 
 **🖇 Tech stack**
 
-- Languages: JavaScript;
-- TypeChecker: TypeScript;
-- HTML5;
-- CSS (Flexbox, Grid, BEM, Animations, Adaptive Layout);
-- Components UI Library: React;
-- State Manager: Redux;
-- Bundler: WebPack (inside of CRA).
+- Languages: JavaScript
+- TypeChecker: TypeScript
+- HTML5
+- CSS (Flexbox, Grid, BEM, Animations, Adaptive Layout)
+- Components UI Library: React
+- State Manager: Redux
+- Bundler: WebPack (inside of CRA)
 <!--
 **annakrm/annakrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
