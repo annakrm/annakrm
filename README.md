@@ -2,7 +2,7 @@
 
 **🖇 Tech stack**
 
-- Languages: JavaScript
+- Language: JavaScript
 - TypeChecker: TypeScript
 - HTML5
 - CSS (Flexbox, Grid, BEM, Animations, Adaptive Layout)
