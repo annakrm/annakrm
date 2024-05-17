@@ -1,4 +1,16 @@
-### Hi there 👋
+**Frontend Engineer**
+
+🖇 Tech stack
+
+- HTML & CSS
+
+- Language: JavaScript
+
+- TypeChecker: TypeScript
+
+- Components UI Library: React
+
+- State Manager: Redux | Effector
 
 <!--
 **annakrm/annakrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
